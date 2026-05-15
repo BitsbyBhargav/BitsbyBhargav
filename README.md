@@ -15,15 +15,14 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ### `Beyond the code`
-
 <div align="center">
 
 <pre>
-<b>Name</b>        : Bhargav Sonawane
-<b>Based In</b>    : Pune, Maharashtra IN  (Hometown: Surat)
-<b>Education</b>   : B.Tech – Big Data & Cloud Engineering (3rd Year)
-<b>Focus Areas</b> : Data Analytics · Cloud Infrastructure · Backend Systems
-<b>Status</b>      : Building pipelines. Scaling ideas. Leading communities.
+<font color="#50fa7b"><b>Name</b></font>: <font color="#8be9fd">Bhargav Sonawane</font>
+<font color="#50fa7b"><b>Based In</b></font>: Pune, Maharashtra IN  (Hometown: Surat)
+<font color="#50fa7b"><b>Education</b></font>: B.Tech – Big Data & Cloud Engineering (3rd Year)
+<font color="#50fa7b"><b>Focus Areas</b></font>: Data Analytics · Cloud Infrastructure · Backend Systems
+<font color="#50fa7b"><b>Status</b></font>: Building pipelines. Scaling ideas. Leading communities.
 </pre>
 
 </div>

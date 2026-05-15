@@ -5,7 +5,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bhargav%20Sonawane&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Cloud%20%26%20Big%20Data%20Engineer%20%7C%20Community%20Leader&descSize=16&descAlignY=58&descColor=94d2bd&animation=fadeIn" width="100%"/>
-
 </div>
 
 ---

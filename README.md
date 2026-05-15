@@ -16,15 +16,17 @@
 
 ### `Beyond the code`
 
-</div>
+<div align="center">
 
-```yaml
-Name        : Bhargav Sonawane
-Based In    : Pune, Maharashtra 🇮🇳  (Hometown: Surat)
-Education   : B.Tech – Big Data & Cloud Engineering (3rd Year)
-Focus Areas : Data Analytics · Cloud Infrastructure · Backend Systems
-Status      : Building pipelines. Scaling ideas. Leading communities.
-```
+<pre>
+<b>Name</b>        : Bhargav Sonawane
+<b>Based In</b>    : Pune, Maharashtra IN  (Hometown: Surat)
+<b>Education</b>   : B.Tech – Big Data & Cloud Engineering (3rd Year)
+<b>Focus Areas</b> : Data Analytics · Cloud Infrastructure · Backend Systems
+<b>Status</b>      : Building pipelines. Scaling ideas. Leading communities.
+</pre>
+
+</div>
 
 <br/>
 

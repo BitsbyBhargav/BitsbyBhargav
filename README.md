@@ -1,13 +1,19 @@
-# Bhargav Sonawane
-**Big Data & Cloud Engineer | Data Analyst | Community Leader**
+<div align="center">
 
-[Portfolio](https://bitsbybhargav.github.io/) • [LinkedIn](https://www.linkedin.com/in/bhargav-sonawane-b50605327/) • [LeetCode](https://leetcode.com/u/Bhargav_Sonawane/) • [Email](mailto:officialbhargav22@gmail.com)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bhargav%20Sonawane&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Big%20Data%20%26%20Cloud%20Engineer%20%7C%20Data%20Analyst%20%7C%20Community%20Leader&descSize=16&descAlignY=58&descColor=94d2bd&animation=fadeIn)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhargav%20Sonawane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-sonawane-b50605327/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bitsbybhargav.github.io-203a43?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bitsbybhargav.github.io/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Bhargav__Sonawane-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Bhargav_Sonawane/)
+[![Email](https://img.shields.io/badge/Email-officialbhargav22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialbhargav22@gmail.com)
+
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-Hello! I’m **Bhargav Sonawane**, a 3rd-year B.Tech student specializing in **Big Data & Cloud Engineering** at **MIT ADT University, Pune**. I focus on building scalable data pipelines, developing predictive machine learning models, and designing cloud solutions.
+Hello! I’m **Bhargav Sonawane**, a 3rd-year B.Tech student specializing in **Big Data & Cloud Engineering** at **MIT ADT University, Pune**. I focus on designing scalable data pipelines, developing predictive machine learning models, and building efficient cloud solutions.
 
 - 🎓 **Education:** B.Tech in Big Data & Cloud Engineering | MIT ADT University (CGPA: 7.85)
 - 💼 **Experience:** Ex-Data Analytics Intern at **Adani Ports & SEZ Ltd.**
@@ -16,19 +22,27 @@ Hello! I’m **Bhargav Sonawane**, a 3rd-year B.Tech student specializing in **B
 
 ---
 
-### ⚙️ Techs & Toolbox
+### ⚙️ Tech Stack & Competencies
 
 **Languages & Logic**  
-`Python` · `Java` · `SQL`
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Data Analytics & Machine Learning**  
-`Power BI` · `Pandas` · `NumPy` · `Scikit-Learn`
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Cloud, Databases & Backend**  
-`AWS` · `MS SQL Server` · `Supabase`
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Tools & Platform**  
-`Git` · `GitHub`
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -45,7 +59,7 @@ Hello! I’m **Bhargav Sonawane**, a 3rd-year B.Tech student specializing in **B
 
 ---
 
-### 💼 Experience & Leadership
+### 💼 Work Experience & Leadership
 
 **Adani Ports & SEZ Ltd.** | *Data Analytics Intern*
 - Engineered predictive maintenance models and trade volume forecasting systems to improve operational decisions across port facilities.
@@ -56,7 +70,33 @@ Hello! I’m **Bhargav Sonawane**, a 3rd-year B.Tech student specializing in **B
 
 ---
 
-### 📊 GitHub & LeetCode Profiles
+### 📊 Analytics & Activity
 
-- **GitHub:** [@BitsbyBhargav](https://github.com/BitsbyBhargav)
-- **LeetCode:** [@Bhargav_Sonawane](https://leetcode.com/u/Bhargav_Sonawane/)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BitsbyBhargav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BitsbyBhargav&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+<br/>
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=BitsbyBhargav&theme=tokyonight&hide_border=true)
+
+<br/>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Bhargav_Sonawane?theme=dark&font=Karma)
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BitsbyBhargav&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=BitsbyBhargav&label=Profile+Views&color=2c5364&style=flat-square)
+
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer)
+
+</div>
